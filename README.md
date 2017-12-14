@@ -1,2 +1,2 @@
-# minimal-calendar
-Minimal Calendar for 2018 for sketch
+# 2018 Minimal Calendar
+For sketch, using inter UI font.
